@@ -25,11 +25,11 @@ Iremos criar uma página HTML com os seguintes elementos:
 
 Dentro do <form> você irá colocar os seguintes elementos:
 
-- <label> Altura: 
-- <input> type="text" id="altura" required autocomplete="off" placeholder="Apenas números"
+- label Altura: 
+- input type="text" id="altura" required autocomplete="off" placeholder="Apenas números"
 
-- <label> Peso: 
-- <input> Atributos: type="text" id="peso" required autocomplete="off" placeholder="Apenas números"
+- label Peso: 
+- input Atributos: type="text" id="peso" required autocomplete="off" placeholder="Apenas números"
 
 - <button>Calcular</button> Atributos: type="submit" id="submit"
 
