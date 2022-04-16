@@ -15,11 +15,11 @@ Como imprimir valores na sua página a partir do Javascript;
 
 Iremos criar uma página HTML com os seguintes elementos:
 
-- <form> //Elemento 1
+- form //Elemento 1
 
-- <label> //Elemento 2
+- label //Elemento 2
   
-- <span> //Elemento 3
+- span //Elemento 3
 
 (Para efetuar quebras de linha e deixar o form mais bonito utilize a tag <br> onde deseja quebrar linhas)
 
